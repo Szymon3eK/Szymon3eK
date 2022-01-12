@@ -3,5 +3,5 @@
 - 💙 15 Lat ;)
 - 🌱 Drugi język programowania to C++
 - 📫 Mój discord: !Szymon3eK#0003
-- 💬 Poland, Opole
+- 💬 Poland
 
