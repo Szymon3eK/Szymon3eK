@@ -1,3 +1,6 @@
+
+- https://szymon3ek.pl/
+
 - 👋 Cześć. Witaj Na moim Githubie!
 - 👀 Najczęsciej robie boty na discorda w JavaScript (discord.js)
 - 💙 16 Lat ;)
