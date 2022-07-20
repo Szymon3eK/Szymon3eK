@@ -1,10 +1,9 @@
+<img src = "https://github-readme-stats.vercel.app/api?username=Szymon3eK&show_icons=true&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Szymon3eK&layout=compact&theme=tokyonight"
 
-- https://szymon3ek.pl/
+<a href = "https://szymon3ek.pl/">
+  <h2>My website! Click here (https://szymon3ek.pl)</h2>
+</a>
 
-- 👋 Cześć. Witaj Na moim Githubie!
-- 👀 Najczęsciej robie boty na discorda w JavaScript (discord.js)
-- 💙 16 Lat ;)
-- 🌱 Drugi język programowania to Python
-- 📫 Mój discord: !Szymon3eK#0003
-- 💬 Poland
+
 
