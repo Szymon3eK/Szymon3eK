@@ -13,6 +13,7 @@
 
  <p>My WEB: <a href = "https://szymon3ek.pl/"> https://szymon3ek.pl </a> </p>
  <p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
+ <a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a>
 
 
 
