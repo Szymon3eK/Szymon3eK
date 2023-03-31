@@ -14,6 +14,6 @@
  <p>My WEB: <a href = "https://szymon3ek.pl/"> https://szymon3ek.pl </a> </p>
  <p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
  <a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a>
-<a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click ! Trolling script ! </p><a>
+<a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click</a> ! Trolling script ! </p>
 
 
