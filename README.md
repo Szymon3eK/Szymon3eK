@@ -17,6 +17,6 @@
  <br>
 <p><a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a></p>
  <br>
-<p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</p></a>
+<p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/">https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</p></a>
 
 
