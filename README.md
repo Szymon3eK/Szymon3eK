@@ -12,11 +12,8 @@
 <h2>-=- lINKS -=-</h2>
 
  <p>My WEB: <a href = "https://szymon3ek.pl/"> https://szymon3ek.pl </a> </p>
- <br>
 <p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
- <br>
 <p><a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a></p>
- <br>
 <p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/">https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</p></a>
 
 
