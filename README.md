@@ -12,8 +12,11 @@
 <h2>-=- lINKS -=-</h2>
 
  <p>My WEB: <a href = "https://szymon3ek.pl/"> https://szymon3ek.pl </a> </p>
- <p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
- <a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a>
-<a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click (https://szymon3k.github.io/ptoszek/</a> ! Trolling script ! </p>
+ <br>
+<p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
+ <br>
+<a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a>
+ <br>
+<p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</a></p>
 
 
