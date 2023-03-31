@@ -15,8 +15,8 @@
  <br>
 <p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
  <br>
-<a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a>
+<p><a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a></p>
  <br>
-<p>! WARNING TROLLING SCRIPT !</p><a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</a></p>
+<p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/"> <p>https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</p></a>
 
 
