@@ -10,10 +10,6 @@
  <p>!Szymon3eK#0003</p>
 
 <h2>-=- lINKS -=-</h2>
-
- <p>My WEB: <a href = "https://szymon3ek.pl/"> https://szymon3ek.pl </a> </p>
-<p>My Server WEB (poland community): <a href = "http://zadymiarze.live/"> http://zadymiarze.live </a> </p>
-<p><a href = "https://szymonpoleca.pl/"> https://szymonpoleca.pl </a></p>
-<p>! WARNING TROLLING SCRIPT ! <a href = "https://szymon3ek.click/">https://szymon3ek.click (https://szymon3ek.github.io/ptoszek/</p></a>
+<a href = "https://szymon3ek.xyz">szymon3ek.xyz</a>
 
 
