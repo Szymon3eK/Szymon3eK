@@ -1,6 +1,5 @@
 <h2>-=- GITHUB STATS -=-</h2>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Szymon3eK&show_icons=true&theme=tokyonight">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Szymon3eK&layout=compact&theme=tokyonight">
 
 
